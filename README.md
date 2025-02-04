@@ -1,12 +1,13 @@
-## oii...seja Bem Vindo,prazer me chamo Thiago.
-- 🔭  Em busca de estagio em TI
-- 💻 Front-end |em formação
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Ele/Dele
+## Opaa...eai seja Bem Vindo,prazer..me chamo Thiago.
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou em busca do primeiro estágio.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+
+- 🔭  Em busca do Primerio estagio em TI
+- 💻 Front-end|em formação
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 😄 Ele/Dele
+-  
 <h3 align="left">Entre em contato comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:thiagoleandro0422@gmail.com)
