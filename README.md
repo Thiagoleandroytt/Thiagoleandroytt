@@ -25,6 +25,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="25" alt="python logo"  />
+  <img width="8" />
 </div>
 
 <picture align="center">
