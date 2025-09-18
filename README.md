@@ -27,6 +27,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
    <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="25" alt="python logo"  />
   <img width="8" />
+   <img src="<img width="600" height="600" alt="icone AI900" src="https://github.com/user-attachments/assets/457af29e-feef-4b08-b162-1e1aa9477cce" />
+" height="25" alt="AI900 logo"  />
+  <img width="8" />
 </div>
 
 <picture align="center">
